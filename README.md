@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating websites since July 2024<br>📚 I'm currently learning Web Development from Scratch.<br>🎯 Goals: To learn Full Stack Development and apply my skills to solve problems.</p>
+<p align="left">✨ Creating websites since July 2024<br>📚 I'm currently learning Full Stack Web Development from Scratch.<br>🎯 Goals: To learn Full Stack Development and apply my skills to solve problems.</p>
 
 ###
 
