@@ -10,9 +10,38 @@
 
 ###
 
-<p align="left">✨ Creating websites since July 2024<br>📚 I'm currently learning Full Stack Web Development from Scratch.<br>🎯 Goals: To learn Full Stack Development and apply my skills to solve problems.</p>
+### 💻 About Me  
+- 🌐 **Creating Websites:** Since **July 2024**  
+- 🚀 **Frontend Developer** with a passion for building beautiful and responsive websites  
+- 🧩 **Problem Solver** enthusiastic about solving real-world problems  
+- 🏆 **Participated in 5+ Coding Competitions**  
+- 🔢 **Solved 150+ LeetCode Questions**  
+- 📚 **Currently Learning:** Full Stack Web Development from scratch  
+- 🎯 **Goal:** To become a Full Stack Developer and apply my skills to impactful projects  
 
-###
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/asiya-sohail-545387235/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Asiya_Sohail/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/1268618969968017539" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sohailasiya27@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <h2 align="left">I code with</h2>
 
