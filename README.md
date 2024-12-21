@@ -10,15 +10,23 @@
 
 ###
 
+Here’s the updated version with the international hackathon participation included:
+
+---
+
 ### 💻 About Me  
 - 🌐 **Creating Websites:** Since **July 2024**  
 - 🚀 **Frontend Developer** with a passion for building beautiful and responsive websites  
 - 🧩 **Problem Solver** enthusiastic about solving real-world problems  
 - 🏆 **Participated in 5+ Coding Competitions**  
+- 🌍 **International Hackathon Participant** with an eagerness to innovate and collaborate globally  
 - 🔢 **Solved 150+ LeetCode Questions**  
 - 📚 **Currently Learning:** Full Stack Web Development from scratch  
 - 🎯 **Goal:** To become a Full Stack Developer and apply my skills to impactful projects  
 
+---
+
+Let me know if you need any further adjustments! 🚀
 ---
 
 ### 🌐 Connect with Me  
