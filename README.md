@@ -8,10 +8,6 @@
 
 <h2 align="left">About me</h2>
 
-###
-
-Here’s the updated version with the international hackathon participation included:
-
 ---
 
 ### 💻 About Me  
@@ -24,9 +20,6 @@ Here’s the updated version with the international hackathon participation incl
 - 📚 **Currently Learning:** Full Stack Web Development from scratch  
 - 🎯 **Goal:** To become a Full Stack Developer and apply my skills to impactful projects  
 
----
-
-Let me know if you need any further adjustments! 🚀
 ---
 
 ### 🌐 Connect with Me  
