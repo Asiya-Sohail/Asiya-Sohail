@@ -19,7 +19,8 @@
 - 🔢 **Solved 150+ LeetCode Questions**  
 - 📚 **Currently Learning:** Full Stack Web Development from scratch  
 - 🎯 **Goal:** To become a Full Stack Developer and apply my skills to impactful projects  
-
+- 🧩 **Harvard Puzzle Day 2025 Participant** - Engaged in problem-solving and teamwork in a prestigious international event
+- 💡 **Code in Place by Stanford** - Served as a Section Leader, mentoring students and contributing to the success of the program
 ---
 
 ### 🌐 Connect with Me  
